@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yxchen/Documents/OpenGL/HW1.1/main.cpp
+iostream
+-
+math.h
+-
+GLFW/glfw3.h
+-
+
