@@ -23,7 +23,8 @@ void show(float xarray[], float yarray[], int length) {
         // Keep running
         /* Draw a triangle */
         glBegin(GL_POINTS);
-        glColor3f(1, 0.52, 0.0);    // Orange
+//        glColor3f(1, 0.52, 0.0);    // Orange
+        glColor3f(1, 1, 1);    // White
         for (int i = 0; i < length; i++) {
             glVertex2f(xarray[i], yarray[i]);
         }

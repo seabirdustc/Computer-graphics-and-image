@@ -43,10 +43,10 @@ RM = /opt/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yxchen/Documents/OpenGL/HW1.1
+CMAKE_SOURCE_DIR = "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OpenGL.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/OpenGL.dir/flags.make
 
 CMakeFiles/OpenGL.dir/glad.c.o: CMakeFiles/OpenGL.dir/flags.make
 CMakeFiles/OpenGL.dir/glad.c.o: ../glad.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/OpenGL.dir/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OpenGL.dir/glad.c.o   -c /home/yxchen/Documents/OpenGL/HW1.1/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/OpenGL.dir/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/OpenGL.dir/glad.c.o   -c "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/glad.c"
 
 CMakeFiles/OpenGL.dir/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OpenGL.dir/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/yxchen/Documents/OpenGL/HW1.1/glad.c > CMakeFiles/OpenGL.dir/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/glad.c" > CMakeFiles/OpenGL.dir/glad.c.i
 
 CMakeFiles/OpenGL.dir/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OpenGL.dir/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/yxchen/Documents/OpenGL/HW1.1/glad.c -o CMakeFiles/OpenGL.dir/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/glad.c" -o CMakeFiles/OpenGL.dir/glad.c.s
 
 CMakeFiles/OpenGL.dir/main.cpp.o: CMakeFiles/OpenGL.dir/flags.make
 CMakeFiles/OpenGL.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OpenGL.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OpenGL.dir/main.cpp.o -c /home/yxchen/Documents/OpenGL/HW1.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OpenGL.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OpenGL.dir/main.cpp.o -c "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/main.cpp"
 
 CMakeFiles/OpenGL.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yxchen/Documents/OpenGL/HW1.1/main.cpp > CMakeFiles/OpenGL.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/main.cpp" > CMakeFiles/OpenGL.dir/main.cpp.i
 
 CMakeFiles/OpenGL.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yxchen/Documents/OpenGL/HW1.1/main.cpp -o CMakeFiles/OpenGL.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/main.cpp" -o CMakeFiles/OpenGL.dir/main.cpp.s
 
 # Object files for target OpenGL
 OpenGL_OBJECTS = \
@@ -95,7 +95,7 @@ OpenGL: CMakeFiles/OpenGL.dir/glad.c.o
 OpenGL: CMakeFiles/OpenGL.dir/main.cpp.o
 OpenGL: CMakeFiles/OpenGL.dir/build.make
 OpenGL: CMakeFiles/OpenGL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable OpenGL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable OpenGL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/OpenGL.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/OpenGL.dir/clean:
 .PHONY : CMakeFiles/OpenGL.dir/clean
 
 CMakeFiles/OpenGL.dir/depend:
-	cd /home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yxchen/Documents/OpenGL/HW1.1 /home/yxchen/Documents/OpenGL/HW1.1 /home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug /home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug /home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/OpenGL.dir/depend
 

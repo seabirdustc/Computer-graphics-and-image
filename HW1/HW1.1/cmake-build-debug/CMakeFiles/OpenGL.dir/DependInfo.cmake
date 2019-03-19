@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/yxchen/Documents/OpenGL/HW1.1/glad.c" "/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/glad.c.o"
+  "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/glad.c" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/glad.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -13,7 +13,7 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yxchen/Documents/OpenGL/HW1.1/main.cpp" "/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/main.cpp.o"
+  "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/main.cpp" "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

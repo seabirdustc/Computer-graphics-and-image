@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW2.dir/glad.c.o CMakeFiles/HW2.dir/main.cpp.o  -o HW2 -lglfw3 -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor 

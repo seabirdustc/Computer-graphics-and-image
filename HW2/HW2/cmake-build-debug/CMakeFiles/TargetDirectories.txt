@@ -1,0 +1,3 @@
+/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir

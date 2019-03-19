@@ -1,4 +1,4 @@
-# Install script for directory: /home/yxchen/Documents/OpenGL/HW1.1
+# Install script for directory: /home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/yxchen/Documents/OpenGL/HW1.1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
