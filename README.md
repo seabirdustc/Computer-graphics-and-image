@@ -21,7 +21,7 @@
 
 
 ## HW 4
-
+[作业文档](https://github.com/seabirdustc/Computer-graphics-and-image/blob/master/HW4/%E5%9B%BE%E5%BD%A2%E5%AD%A6-0328%E4%BD%9C%E4%B8%9A.docx)
 
 
 
