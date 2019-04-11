@@ -1,3 +1,0 @@
-/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/OpenGL.dir
-/home/yxchen/Nutstore Files/计算机/计算机图形图像/Computer-graphics-and-image/HW1/HW1.1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,3 +1,0 @@
-/home/yxchen/Documents/OpenGL/HW1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/yxchen/Documents/OpenGL/HW1.2/cmake-build-debug/CMakeFiles/HW1_2.dir
-/home/yxchen/Documents/OpenGL/HW1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
