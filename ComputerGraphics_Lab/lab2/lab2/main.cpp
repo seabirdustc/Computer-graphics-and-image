@@ -14,10 +14,10 @@ int n = 3;
 
 void Trans() {
 	glLoadIdentity();
-	//    glTranslatef(-0.1,-0.5,0.25);
-	//    glRotatef(140,0.6,0.3,-0.5);
-	//    glRotatef(50,1,-1,1);
-	//    glScalef(1.2,0.3,0.5);
+	    glTranslatef(-0.1,-0.5,0.25);
+	    glRotatef(140,0.6,0.3,-0.5);
+	    /*glRotatef(50,1,-1,1);
+	    glScalef(1.2,0.3,0.5);*/
 
 }
 
